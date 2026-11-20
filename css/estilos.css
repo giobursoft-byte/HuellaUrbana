@@ -1,0 +1,19 @@
+body {
+  background-color: #92d0f6;
+  color: darkblue;
+}
+
+header {
+  background-color: green;
+}
+
+p{
+    font-size: 20pt;
+}
+
+
+
+img{
+    width: 300px;
+    height: 300px;
+}
